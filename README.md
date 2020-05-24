@@ -6,6 +6,9 @@ https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welco
 I've coded on Google Colab.
 
 **Tokenization
+
 **Text to Sequence
+
 **Neural Model
+
 **Result Vizualization
